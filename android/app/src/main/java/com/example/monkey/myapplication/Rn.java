@@ -1,6 +1,5 @@
 package com.example.monkey.myapplication;
 
-import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -10,9 +9,7 @@ import android.view.ViewGroup;
 
 import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactRootView;
-import com.facebook.react.shell.MainReactPackage;
-//import com.facebook.react.LifecycleState;
-import com.facebook.react.common.LifecycleState;
+
 /**
  * A simple {@link Fragment} subclass.
  * Activities that contain this fragment must implement the
@@ -30,9 +27,6 @@ public class Rn extends Fragment {
     // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
-
-    private ReactRootView mReactRootView;
-    private ReactInstanceManager mReactInstanceManager;
 
     private OnFragmentInteractionListener mListener;
 
@@ -70,23 +64,14 @@ public class Rn extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        mReactRootView = new ReactRootView(getActivity());
-        mReactInstanceManager = ReactInstanceManager.builder()
-                .setApplication(getActivity().getApplication())
-                .setBundleAssetName("index.android.bundle")
-                .setJSMainModulePath("index.android")
-                .addPackage(new MainReactPackage())
-                .setUseDeveloperSupport(BuildConfig.DEBUG)
-                .setInitialLifecycleState(LifecycleState.RESUMED)
-                .build();
-        mReactRootView.startReactApplication(mReactInstanceManager, "ardemo", null);
-//        return inflater.inflate(R.layout.fragment_rn, container, false);
 
-        return mReactRootView;
+        ReactInstanceManager reactInstanceManager = ((MainActivity)getActivity()).getReactInstanceManager();
+        ReactRootView reactRootView = ((MainActivity)getActivity()).getReactRootView();
+        reactRootView.startReactApplication(reactInstanceManager, "ardemo", null);
+
+        return reactRootView;
     }
 
-    // TODO: Rename method, update argument and hook method into UI event
     public void onButtonPressed(Uri uri) {
         if (mListener != null) {
             mListener.onFragmentInteraction(uri);
@@ -121,7 +106,6 @@ public class Rn extends Fragment {
      * >Communicating with Other Fragments</a> for more information.
      */
     public interface OnFragmentInteractionListener {
-        // TODO: Update argument type and name
         void onFragmentInteraction(Uri uri);
     }
 }
