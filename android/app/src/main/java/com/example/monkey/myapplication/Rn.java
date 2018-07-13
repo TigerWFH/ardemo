@@ -75,7 +75,7 @@ public class Rn extends Fragment {
         mReactInstanceManager = ReactInstanceManager.builder()
                 .setApplication(getActivity().getApplication())
                 .setBundleAssetName("index.android.bundle")
-//                .setJSMainModuleName("index.android")
+                .setJSMainModulePath("index.android")
                 .addPackage(new MainReactPackage())
                 .setUseDeveloperSupport(BuildConfig.DEBUG)
                 .setInitialLifecycleState(LifecycleState.RESUMED)
