@@ -3,12 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jar="/Users/wangfanghua/.android/build-cache/d232eac3080b41fd3ed15a614c11590e226d2313/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_13c06aaad72753f07b1fd636729ec8c3cee45709/classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83353ff325dca273e9c97e12a163122e3af2f011/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -21,84 +21,219 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.android/build-cache/b0187fd22db030d9788e23975faeae936a7878e6/output/jars/classes.jar"
+        jar="/Users/wangfanghua/.android/build-cache/3e385ecb71bdc19857b6a659e65b700dbf425085/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47a79e7f3ee8b19a925dd68fc1f4df00360538e9/classes.dex" />
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_595b5f6a1739c4a332e2441bf4ace397fa8ff9e7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jar="/Users/wangfanghua/.android/build-cache/bbdc61b3509aed040f33d907ec2651c5a2bf814a/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_489e1173c5275facb034ffda9ea723083a42be11/classes.dex" />
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5facfd649272d0c78127e42bc0f4b3f3b5fca14/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.android/build-cache/eeb7584889309b5e3a6787b27ad4238e6e3add67/output/jars/classes.jar"
+        jar="/Users/wangfanghua/.android/build-cache/3f131f73a0aca7477a499b9cd5c2fe509f8f6398/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86a8d41f9fc07df5209fa82f7a2058d4b786cc44/classes.dex" />
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8cc8182e1239160cd2f8336fd6b8a9e7c1646d6b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.android/build-cache/c1d0b8fa9ecc003816b9df835194463bf21c3005/output/jars/classes.jar"
+        jar="/Users/wangfanghua/.android/build-cache/174d63dd6560f1384b17a81a64a2f1988c8beb67/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_157cdfc0bcdff3b03bcb4da031240a3eadcfab69/classes.dex" />
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_914c8a653e6090f2dc83bad6085dc3ac3a535bd1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_75307b8d5e1a189d078e762e98942ab80b5272d5/classes.dex" />
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_4ec0ee5bf389064019ce6d4b536f333be69e962d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.android/build-cache/f674c94d1dae09cd5a26955d548a5b039a41efe2/output/jars/classes.jar"
+        jar="/Users/wangfanghua/.android/build-cache/53a2513fecf095ede412e119f3800436e760f907/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0bcda18d5812714ff406822485ce58d15291beb/classes.dex" />
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2d5820edf865b229e0fde3a5e051a96832662ad/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.android/build-cache/e6736be42b53e66711e355f8bce46c0e9afc4dc4/output/jars/libs/infer-annotations-4.0.jar"
+        jar="/Users/wangfanghua/.android/build-cache/d0e4377a724bacac73b12378fe7e71ebaa9be96e/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_f2ca09cd448e0f143fefb118b790f03d7684aee2/classes.dex" />
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60ae05359dc5a4119c4036fc4be1543d0e98f005/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.android/build-cache/e6736be42b53e66711e355f8bce46c0e9afc4dc4/output/jars/classes.jar"
+        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36c8a279f819286bde2c59473b52145286d9947c/classes.dex" />
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_c2714172dbf0eb947c5c50bd08d7ad9c79391195/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.android/build-cache/bd1454386951058aa083c327d12ce66db16387a0/output/jars/classes.jar"
+        jar="/Users/wangfanghua/.android/build-cache/2f891d2e924f2c28ea55244e2b883c8ef97455ef/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72431efb8ae2131253db6d73963b9332d5cd8361/classes.dex" />
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af6257e72ea413f366750b84c8c9578b5c9499ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.android/build-cache/82af42a16e8206247373597d597446d8d4315bc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f9a4453a9ebda1cb7f9b44c875290adbff8aae4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.android/build-cache/d91118f8e1ca5a0be56c376308fb643684f38361/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15d40ad2c084cd872276573e707ef443794676f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.android/build-cache/3b7257a924ac3195e8fc4e318c7dd74a33c99482/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ae998020adb8b6de2741589f3021f6a734f0c9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.android/build-cache/d45304168fecceedc6052c6d8d8bdaa6e72d1cd3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a160b0611c9140d6ab4a847846fbb8434ea7a9be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_307fef246fb475fe6afbedeb9b6592911377349c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.android/build-cache/c32ea42c240c268e86d8662697a3e501373cd56b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa823cdaebcfe4e40d5b69ee1774a597921dd994/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.android/build-cache/1aa4813b85270a0d8f028c05d2032a52db075398/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b1b65277a893e65ebb388aea43087d0af5d8cd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.android/build-cache/36993dc78f54a4b69d35b56c5ce7f97a5253c60b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76603bf30ea8f0eae8752607cf9112eb8d139651/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.10.0_bdb5ce64e329970c617aa3a3ce288d8118f24af9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.android/build-cache/caab3a746691986247589b678fd1728f65be841d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e77c120ad52ecf79df82562088185676c4198c43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.android/build-cache/2ee5d943ea107067696218bc7b36f8556a36d680/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4faaeaeee3e64bf5d495dfdc6c8e1ae4df2434c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_7ca09960e1895406ec1807edb4d634073cf3015e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_06e1234da131260973b368503391eb3abf18dfe4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.android/build-cache/d6ad9cfe558766165c2bc50755e67634113008b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41df44d5266b31479d409320bccf920f47c4a641/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangfanghua/.android/build-cache/023cabdc6d56cb2c258524ce09b10e2425447b1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f4d8be4737676fcf5638290c1fec3e6cffffdf74/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -106,62 +241,35 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="cfb554cc67f3994073c4db8537da0f962a9f91f6">
+        sha1="40c647d2b11d7a4109c8e9a0daa62d0ab817738c">
         <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ed9cd86bbfceb5f18de7408839bb945b17756fef/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/Users/wangfanghua/.android/build-cache/a914134014d6b1ad0024d7fc98f26f73febb7271/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_9ed039f7e5212120006c361c49131eb36dfdc44a/classes.dex" />
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dde4a827282dcd86a5fa62eb652d32c2c283b63d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.android/build-cache/7b6e333928a427549c6e90b69c21d9640a3b9792/output/jars/classes.jar"
+        jar="/Users/wangfanghua/.android/build-cache/15fb3d5b342902a61799bf2900a88a98de7ec085/output/jars/libs/infer-annotations-4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da489bf8565ed62bb1e552d67b6e25f9f71444c7/classes.dex" />
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-4.0_f622b458c8b8d2ee9f39dc43e2896fbac1999434/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangfanghua/.android/build-cache/a01c94eb472c8e359b3b2615f095adf9d75d6e23/output/jars/classes.jar"
+        jar="/Users/wangfanghua/.android/build-cache/15fb3d5b342902a61799bf2900a88a98de7ec085/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01d8de95e5d51bf2b48a14baa0b614b5bd73433b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_f6e5555f42caf9cf6dcc88db7799bd09e30efde1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangfanghua/.android/build-cache/c90e8f63669783d4808f539dff073f25925ab8d9/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41ed3cd862e28310dc918d5a6226056087d701f0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangfanghua/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.6.0_af548ef2e889634eb5aa8de85dbdd9eefc8080a8/classes.dex" />
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/wangfanghua/projects/demos/arDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_796860c52bd59e8a69a76fde96b6cdfd4e3f19c5/classes.dex" />
     </item>
 
 </items>
