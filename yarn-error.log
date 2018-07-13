@@ -1,0 +1,44 @@
+Arguments: 
+  /Users/wangfanghua/.nvm/versions/node/v6.9.0/bin/node /Users/wangfanghua/.yarn/bin/yarn.js add react-native
+
+PATH: 
+  /Users/wangfanghua/.yarn/bin:/Users/wangfanghua/.config/yarn/global/node_modules/.bin:/Users/wangfanghua/.nvm/versions/node/v6.9.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Wireshark.app/Contents/MacOS:/Users/wangfanghua/Library/Android/sdk/platform-tools:/usr/local/mysql/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  6.9.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "ardemo",
+    "version": "1.0.0",
+    "description": "ar=android react-native demo",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Found incompatible module
+      at MessageError.Error (native)
+      at new MessageError (/Users/wangfanghua/.yarn/lib/cli.js:186:110)
+      at checkOne (/Users/wangfanghua/.yarn/lib/cli.js:62444:11)
+      at Object.check (/Users/wangfanghua/.yarn/lib/cli.js:62463:5)
+      at /Users/wangfanghua/.yarn/lib/cli.js:22803:73
+      at next (native)
+      at step (/Users/wangfanghua/.yarn/lib/cli.js:98:30)
+      at /Users/wangfanghua/.yarn/lib/cli.js:109:13
