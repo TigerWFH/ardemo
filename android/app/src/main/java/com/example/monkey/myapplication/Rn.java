@@ -29,6 +29,7 @@ public class Rn extends Fragment {
     private String mParam2;
 
     private OnFragmentInteractionListener mListener;
+    private ReactRootView mReactRootView;
 
     public Rn() {
         // Required empty public constructor
@@ -64,12 +65,11 @@ public class Rn extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-
+        mReactRootView = new ReactRootView(getActivity());
         ReactInstanceManager reactInstanceManager = ((MainActivity)getActivity()).getReactInstanceManager();
-        ReactRootView reactRootView = ((MainActivity)getActivity()).getReactRootView();
-        reactRootView.startReactApplication(reactInstanceManager, "ardemo", null);
+        mReactRootView.startReactApplication(reactInstanceManager, "ardemo", null);
 
-        return reactRootView;
+        return mReactRootView;
     }
 
     public void onButtonPressed(Uri uri) {
@@ -92,6 +92,10 @@ public class Rn extends Fragment {
     @Override
     public void onDetach() {
         super.onDetach();
+        if(mReactRootView != null) {
+            mReactRootView.unmountReactApplication();
+            mReactRootView = null;
+        }
         mListener = null;
     }
 

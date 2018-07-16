@@ -9,7 +9,6 @@ import android.view.KeyEvent;
 import android.view.MenuItem;
 
 import com.facebook.react.ReactInstanceManager;
-import com.facebook.react.ReactRootView;
 import com.facebook.react.common.LifecycleState;
 import com.facebook.react.modules.core.DefaultHardwareBackBtnHandler;
 import com.facebook.react.shell.MainReactPackage;
@@ -20,12 +19,7 @@ public class MainActivity extends AppCompatActivity implements DefaultHardwareBa
     private MenuItem menuItem;
     private BottomNavigationView bottomNavigationView;
 
-    private ReactRootView mReactRootView;
     private ReactInstanceManager mReactInstanceManager;
-
-    public ReactRootView getReactRootView() {
-        return mReactRootView;
-    }
 
     public ReactInstanceManager getReactInstanceManager() {
         return mReactInstanceManager;
@@ -42,7 +36,6 @@ public class MainActivity extends AppCompatActivity implements DefaultHardwareBa
                 .setUseDeveloperSupport(true)
                 .setInitialLifecycleState(LifecycleState.RESUMED)
                 .build();
-        mReactRootView = new ReactRootView(this);
         setContentView(R.layout.activity_main);
 
         viewPager = (ViewPager) findViewById(R.id.viewPage);

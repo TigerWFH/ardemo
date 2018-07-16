@@ -18,9 +18,15 @@ You have JVM property "https.proxyHost" set to .... This may lead to incorrect b
 <td>https://blog.csdn.net/xiaochenuu/article/details/80245931</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td>
+rn内存泄露
+</td>
+<td>
+手动释放引用的activity
+</td>
+<td>
+https://blog.csdn.net/shix_foot/article/details/54846205
+</td>
 </tr>
 </table>
 
